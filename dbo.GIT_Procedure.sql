@@ -5,6 +5,6 @@ GO
 CREATE procedure GIT_Procedure
 as 
 begin 
-select 2
+select 4
 end
 GO
